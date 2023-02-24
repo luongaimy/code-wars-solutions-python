@@ -35,6 +35,7 @@ Join [CodeWars](https://www.codewars.com/) and practice coding together !
 | [**Sum a list but ignore any duplicates**](7kyuKatas/Sum_a_list_but_ignore_any_duplicates.md)  | 1 | `algorithms` | [link](https://www.codewars.com/kata/5993fb6c4f5d9f770c0000f2) |
 | [**Digit*Digit**](7kyuKatas/Digit_Digit.md)  | 1 | `mathematics` | [link](https://www.codewars.com/kata/546e2562b03326a88e000020) |
 | [**Multiply Word in String**](7kyuKatas/Multiply_Word_in_String.md)  | 1 | `mathematics`, `str`, `arr` | [link](https://www.codewars.com/kata/546e2562b03326a88e000020) |
+| [**Sum of integers in string**](7kyuKatas/Sum_of_integers_in_string.md)  | 1 | `mathematics`, `str` | [link](https://www.codewars.com/kata/598f76a44f613e0e0b000026) |
 
 <br>
 
