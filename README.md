@@ -17,7 +17,7 @@ Join [CodeWars](https://www.codewars.com/) and practice coding together !
 | Kata(s) | Solution(s) | Subject | CodeWars Link |
 |--|--|--|--|
 | [**Sort the odd**](6kyuKatas/Sort_the_odd.md)  | 1 | `arr`, `sorting` | [link](https://www.codewars.com/kata/578aa45ee9fd15ff4600090d) |
-
+| [**Pascal's Triangle**](6kyuKatas/Pascal_s_Triangle.md)  | 1 | `arr`, `mathematics`, `algorithms` | [link](https://www.codewars.com/kata/5226eb40316b56c8d500030f) |
 
 ---
 
