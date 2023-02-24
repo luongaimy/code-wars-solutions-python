@@ -45,9 +45,9 @@ Join [CodeWars](https://www.codewars.com/) and practice coding together !
 
 <br>
 
-| Kata(s) | Solution(s) | Subject | CW Link |
+| Kata(s) | Solution(s) | Subject | CodeWars Link |
 |--|--|--|--|
-| [**Human readable duration format**](4kyuKatas/Human_readable_duration_format.md)  | 1 | `str`, `format`, `time` | [link](https://www.codewars.com/kata/52742f58faf5485cae000b9a) |
+| [**Convert number to reversed array of digits**](8kyuKatas/Convert_number_to_reversed_array_of_digits.md)  | 1 | `arr` | [link](https://www.codewars.com/kata/5583090cbe83f4fd8c000051) |
 
 
 <br>
