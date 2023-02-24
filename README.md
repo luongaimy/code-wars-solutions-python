@@ -36,6 +36,7 @@ Join [CodeWars](https://www.codewars.com/) and practice coding together !
 | [**Digit*Digit**](7kyuKatas/Digit_Digit.md)  | 1 | `mathematics` | [link](https://www.codewars.com/kata/546e2562b03326a88e000020) |
 | [**Multiply Word in String**](7kyuKatas/Multiply_Word_in_String.md)  | 1 | `mathematics`, `str`, `arr` | [link](https://www.codewars.com/kata/546e2562b03326a88e000020) |
 | [**Sum of integers in string**](7kyuKatas/Sum_of_integers_in_string.md)  | 1 | `mathematics`, `str` | [link](https://www.codewars.com/kata/598f76a44f613e0e0b000026) |
+| [**Asperand pixel counting**](7kyuKatas/Asperand_pixel_counting.md)  | 1 | `algebra`, `puzzle` | [link](https://www.codewars.com/kata/63d54b5d05992e0046752389) |
 
 <br>
 
