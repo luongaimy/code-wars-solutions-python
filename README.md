@@ -19,7 +19,7 @@ Join [CodeWars](https://www.codewars.com/) and practice coding together !
 | [**Sort the odd**](6kyuKatas/Sort_the_odd.md)  | 1 | `arr`, `sorting` | [link](https://www.codewars.com/kata/578aa45ee9fd15ff4600090d) |
 | [**Pascal's Triangle**](6kyuKatas/Pascal_s_Triangle.md)  | 1 | `arr`, `mathematics`, `algorithms` | [link](https://www.codewars.com/kata/5226eb40316b56c8d500030f) |
 | [**Estimating_Amounts_of_Subsets**](6kyuKatas/Estimating_Amounts_of_Subsets.md)  | 1 | `data structure`, `mathematics`, `algorithms`, `logic`, `str` | [link](https://www.codewars.com/kata/584703d76f6cf6ffc6000275) |
-
+| [**SHA-256**](6kyuKatas/SHA-256.md)  | 1 | `cryptography`, `algorithms`, `str` | [link](https://www.codewars.com/kata/587fb57e12fc6eadf200009b) |
 ---
 
 ## 7kyu Katas
