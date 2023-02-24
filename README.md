@@ -30,6 +30,8 @@ Join [CodeWars](https://www.codewars.com/) and practice coding together !
 |--|--|--|--|
 | [**Simple Fun #176: Reverse Letter**](7kyuKatas/Reverse_Letter.md)  | 1 | `str` | [link](https://www.codewars.com/kata/58b8c94b7df3f116eb00005b) |
 | [**Sum a list but ignore any duplicates**](7kyuKatas/Sum_a_list_but_ignore_any_duplicates.md)  | 1 | `algorithms` | [link](https://www.codewars.com/kata/5993fb6c4f5d9f770c0000f2) |
+| [**Digit*Digit**](7kyuKatas/Digit_Digit.md)  | 1 | `mathematics` | [link](https://www.codewars.com/kata/546e2562b03326a88e000020) |
+
 <br>
 
 
