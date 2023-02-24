@@ -14,9 +14,9 @@ Join [CodeWars](https://www.codewars.com/) and practice coding together !
 
 <br>
 
-| Kata(s) | Solution(s) | Subject | CW Link |
+| Kata(s) | Solution(s) | Subject | CodeWars Link |
 |--|--|--|--|
-| [**Human readable duration format**](4kyuKatas/Human_readable_duration_format.md)  | 1 | `str`, `format`, `time` | [link](https://www.codewars.com/kata/52742f58faf5485cae000b9a) |
+| [**Sort the odd**](6kyuKatas/Sort_the_odd.md)  | 1 | `arr`, `sorting` | [link](https://www.codewars.com/kata/578aa45ee9fd15ff4600090d) |
 
 
 ---
