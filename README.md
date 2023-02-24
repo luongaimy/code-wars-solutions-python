@@ -17,9 +17,7 @@ Join [CodeWars](https://www.codewars.com/) and practice coding together !
 | Kata(s) | Solution(s) | Subject | CW Link |
 |--|--|--|--|
 | [**Human readable duration format**](4kyuKatas/Human_readable_duration_format.md)  | 1 | `str`, `format`, `time` | [link](https://www.codewars.com/kata/52742f58faf5485cae000b9a) |
-| [**Strip Comments**](4kyuKatas/Strip_Comments.md)  | 2 | `str`, `format` | [link](https://www.codewars.com/kata/51c8e37cee245da6b40000bd/) |
 
-<br>
 
 ---
 
@@ -31,7 +29,7 @@ Join [CodeWars](https://www.codewars.com/) and practice coding together !
 | Kata(s) | Solution(s) | Subject | CodeWars Link |
 |--|--|--|--|
 | [**Simple Fun #176: Reverse Letter**](7kyuKatas/Reverse_Letter.md)  | 1 | `str` | [link](https://www.codewars.com/kata/58b8c94b7df3f116eb00005b) |
-
+| [**Sum a list but ignore any duplicates**](7kyuKatas/Sum_a_list_but_ignore_any_duplicates.md)  | 1 | `algorithms` | [link](https://www.codewars.com/kata/5993fb6c4f5d9f770c0000f2) |
 <br>
 
 
@@ -44,7 +42,7 @@ Join [CodeWars](https://www.codewars.com/) and practice coding together !
 | Kata(s) | Solution(s) | Subject | CW Link |
 |--|--|--|--|
 | [**Human readable duration format**](4kyuKatas/Human_readable_duration_format.md)  | 1 | `str`, `format`, `time` | [link](https://www.codewars.com/kata/52742f58faf5485cae000b9a) |
-| [**Strip Comments**](4kyuKatas/Strip_Comments.md)  | 2 | `str`, `format` | [link](https://www.codewars.com/kata/51c8e37cee245da6b40000bd/) |
+
 
 <br>
 
