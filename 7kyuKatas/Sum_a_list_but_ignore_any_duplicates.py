@@ -1,4 +1,4 @@
-```
+
 def sum_no_duplicates(l):
     # write your solution here
     remove_list = [] 
@@ -10,4 +10,3 @@ def sum_no_duplicates(l):
     Sum = sum(l) - sum(remove_list) 
 
     return Sum
-```

@@ -1,4 +1,4 @@
-```
+
 def square_digits(num):
     string = str(num)
 
@@ -7,4 +7,3 @@ def square_digits(num):
     square_digits = int("".join(list_of_squares))
     
     return square_digits
-```

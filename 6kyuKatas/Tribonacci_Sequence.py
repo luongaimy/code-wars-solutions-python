@@ -1,4 +1,4 @@
-```
+
 def tribonacci(signature, n):
       # Initialize the first three values of the sequence
     a=signature[0]
@@ -14,4 +14,3 @@ def tribonacci(signature, n):
             signature.append(d)
 
         return signature
-```

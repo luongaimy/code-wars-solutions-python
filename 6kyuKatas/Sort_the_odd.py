@@ -1,4 +1,4 @@
-```
+
 def sort_array(source_array):
     # Return a sorted array.
     length_list = len(source_array)
@@ -12,4 +12,3 @@ def sort_array(source_array):
                     source_array[j] = temp
                     
     return source_array
-```

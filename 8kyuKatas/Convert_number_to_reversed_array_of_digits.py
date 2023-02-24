@@ -1,4 +1,4 @@
-```
+
 def digitize(n):
     reversed_numbers = []
     
@@ -10,4 +10,3 @@ def digitize(n):
             
     return reversed_numbers
         
-```

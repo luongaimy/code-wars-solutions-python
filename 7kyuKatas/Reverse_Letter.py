@@ -1,4 +1,4 @@
-```
+
 def reverse_letter(word):
 
     rev_word = word[::-1]
@@ -11,4 +11,3 @@ def reverse_letter(word):
     final_word = ''.join(alphabetic_list)
     
     return final_word
-```

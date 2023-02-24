@@ -1,4 +1,4 @@
-```
+
 def sum_of_integers_in_string(s):
     temp = "0"
     sum = 0
@@ -17,4 +17,3 @@ def sum_of_integers_in_string(s):
     # atoi(temp.c_str1()) takes care
     # of trailing numbers
     return sum + int(temp)
-```

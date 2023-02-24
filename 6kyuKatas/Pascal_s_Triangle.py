@@ -1,4 +1,4 @@
-```
+
 def pascals_triangle(n):
     table = [[0] * n for i in range(n)]
     
@@ -17,4 +17,3 @@ def pascals_triangle(n):
         pascals_triangle = pascals_triangle + table[row][:(row+1)]
         
     return pascals_triangle
-```

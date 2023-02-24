@@ -1,4 +1,4 @@
-```
+
 def modify_multiply(st, loc, num):
     word = st.split()
     
@@ -7,4 +7,4 @@ def modify_multiply(st, loc, num):
     word_rep = '-'.join([selected_word] * num)
     
     return word_rep
-```
+

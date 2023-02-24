@@ -1,4 +1,4 @@
-```
+
 def est_subsets(arr):
     length = len(arr)
     
@@ -13,4 +13,3 @@ def est_subsets(arr):
     num_subsets = 2**count - 1 
     
     return num_subsets
-```
