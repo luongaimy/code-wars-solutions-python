@@ -22,6 +22,7 @@ Join [CodeWars](https://www.codewars.com/) and practice coding together !
 | [**SHA-256**](6kyuKatas/SHA-256.py)  | 1 | `cryptography`, `algorithms`, `str` | [link](https://www.codewars.com/kata/587fb57e12fc6eadf200009b) |
 | [**Split Strings**](6kyuKatas/Split_Strings.py)  | 1 | `algorithms`, `str` | [link](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001) |
 | [**Tribonacci Sequence**](6kyuKatas/Tribonacci_Sequence.py)  | 1 | `algorithms`, `mathematics`, `arr` | [link](https://www.codewars.com/kata/556deca17c58da83c00002db) |
+| [**N-th Fibonacci**](6kyuKatas/Nth_Fibonacci.py)  | 1 | `algorithms` | [link](https://www.codewars.com/kata/522551eee9abb932420004a0) |
 ---
 
 ## 7kyu Katas
