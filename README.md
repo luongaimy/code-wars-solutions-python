@@ -52,7 +52,7 @@ Join [CodeWars](https://www.codewars.com/) and practice coding together !
 | Kata(s) | Solution(s) | Subject | CodeWars Link |
 |--|--|--|--|
 | [**Convert number to reversed array of digits**](8kyuKatas/Convert_number_to_reversed_array_of_digits.py)  | 1 | `arr` | [link](https://www.codewars.com/kata/5583090cbe83f4fd8c000051) |
-
+| [**Convert a Boolean to a String**](8kyuKatas/Convert_a_Boolean_to_a_String.py)  | 1 | `str` | [link](https://www.codewars.com/kata/551b4501ac0447318f0009cd) |
 
 <br>
 
