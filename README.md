@@ -38,6 +38,7 @@ Join [CodeWars](https://www.codewars.com/) and practice coding together !
 | [**Multiply Word in String**](7kyuKatas/Multiply_Word_in_String.py)  | 1 | `mathematics`, `str`, `arr` | [link](https://www.codewars.com/kata/546e2562b03326a88e000020) |
 | [**Sum of integers in string**](7kyuKatas/Sum_of_integers_in_string.py)  | 1 | `mathematics`, `str` | [link](https://www.codewars.com/kata/598f76a44f613e0e0b000026) |
 | [**Asperand pixel counting**](7kyuKatas/Asperand_pixel_counting.py)  | 1 | `algebra`, `puzzle` | [link](https://www.codewars.com/kata/63d54b5d05992e0046752389) |
+| [**Currying functions: multiply all elements in an array**](7kyuKatas/Currying_functions_multiply_all_elements_in_an_array.py)  | 1 | `arr` | [link](https://www.codewars.com/kata/586909e4c66d18dd1800009b) |
 
 <br>
 
