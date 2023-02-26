@@ -4,5 +4,5 @@ def count_pixels(k):
         return 11
     border = k * 4 
     bridge = 6
-    inner = (k-1)*4 
+    inner = (k-1) * 4 
     return border + bridge + inner
