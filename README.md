@@ -54,7 +54,7 @@ Join [CodeWars](https://www.codewars.com/) and practice coding together !
 | [**Convert number to reversed array of digits**](8kyuKatas/Convert_number_to_reversed_array_of_digits.py)  | 1 | `arr` | [link](https://www.codewars.com/kata/5583090cbe83f4fd8c000051) |
 | [**Convert a Boolean to a String**](8kyuKatas/Convert_a_Boolean_to_a_String.py)  | 1 | `str` | [link](https://www.codewars.com/kata/551b4501ac0447318f0009cd) |
 | [**Even or Odd**](8kyuKatas/Even_or_Odd.py)  | 1 | `mathematics` | [link](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe) |
-
+| [**Price of Mangoes**](8kyuKatas/Price_of_Mangoes.py)  | 1 | `mathematics` | [link](https://www.codewars.com/kata/57a77726bb9944d000000b06) |
 
 <br>
 
