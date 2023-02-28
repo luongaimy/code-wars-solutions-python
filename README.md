@@ -41,6 +41,7 @@ Join [CodeWars](https://www.codewars.com/) and practice coding together !
 | [**Asperand pixel counting**](7kyuKatas/Asperand_pixel_counting.py)  | 1 | `algebra`, `puzzle` | [link](https://www.codewars.com/kata/63d54b5d05992e0046752389) |
 | [**Currying functions: multiply all elements in an array**](7kyuKatas/Currying_functions_multiply_all_elements_in_an_array.py)  | 1 | `arr` | [link](https://www.codewars.com/kata/586909e4c66d18dd1800009b) |
 | [**Vowel Count**](7kyuKatas/Vowel_Count.py)  | 1 | `str` | [link](https://www.codewars.com/kata/54ff3102c1bad923760001f3) |
+| [**Disemvowel_Trolls**](7kyuKatas/Disemvowel_Trolls.py)  | 1 | `str` | [link](https://www.codewars.com/kata/52fba66badcd10859f00097e) |
 
 <br>
 
